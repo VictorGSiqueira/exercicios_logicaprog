@@ -35,7 +35,7 @@ programa
 		escreva("O resultado da multiplicação entre os dois números é: "+ multiplicacao)
 		leia(x)
 
-		escreva("O resultado d divisão entre os dois números é: "+ divisao)
+		escreva("O resultado da divisão entre os dois números é: "+ divisao)
 		
 	}
 }
@@ -44,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 818; 
+ * @POSICAO-CURSOR = 769; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
